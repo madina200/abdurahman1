@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+   background-image:linear-gradient(to right,lightblue,#FFC940);
+}
+h1:hover{
+    background-image:linear-gradient(to right,#FFC940,white, lightblue);
+    border: 5px dotted #FF6440
+}
+footer{
+  border:200px doted tomato;
+  background-color: #FFB700;  
+}
+.im:focus{
+width:400px;
+height:400px;
+}
